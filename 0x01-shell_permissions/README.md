@@ -11,3 +11,4 @@ Script that sets the mode of the file hello
 Script that sets the mode of the file hello the same as olleh's mode
 Scripts that adds the execution permission all the subdirectories of the current directory owner, the group owner and all other users
 Script that creates directory my dir with permissions 751
+Script that changes the group owner to school for the file hello
