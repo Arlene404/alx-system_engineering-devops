@@ -9,3 +9,4 @@ Script that adds the execution permission owner, the group owner and the other u
 Script that sets permission not to the owner, not to the group but to the other users, for the file hello
 Script that sets the mode of the file hello
 Script that sets the mode of the file hello the same as olleh's mode
+Scripts that adds the execution permission all the subdirectories of the current directory owner, the group owner and all other users
